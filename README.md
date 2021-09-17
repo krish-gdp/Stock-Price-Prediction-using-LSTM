@@ -9,5 +9,7 @@ The model is created using the stacked LSTM layers by importing the necessary AP
 We performed the model using  stacked LSTM's because it increases the ability of our model to understand more complex representation of our time-series data in hidden layers, by capturing information at different levels.
 We used the model to predict the future prices of the company for the next 30 days.
 
+The RMSE value of the model is near to 245.77 which shows that the performance of the model is good.
+
 
 
